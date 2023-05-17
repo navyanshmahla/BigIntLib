@@ -49,7 +49,7 @@ Thank you for your interest in contributing to BigIntLib! This repository is ope
 Once your contributions are approved they will be merged into the main repository. 
 
 ### Please Note: 
-BigIntLib is currently in its early stages of development and only supports addition operations. Your contributions can greatly enhance its functionality and usefulness. I, the owner of this repository \[Navyansh Mahla\], an immature programmer still studying, is actively involved in other commitments and may not be able to actively contribute to BigIntLib. Thus the open-source community is crucial in driving its progress and making it a valuable tool for developers. We appreciate your understanding and valuable contributions to BigIntLib. Together we can build a powerful library for efficient and high-speed numerical computations.
+BigIntLib is currently in its early stages of development and only supports addition operations. Your contributions can greatly enhance its functionality and usefulness. I, the owner of this repository \[Navyansh Mahla\], an immature programmer still studying, is actively involved in other commitments and may not be able to actively contribute to BigIntLib. Thus the open-source community is crucial in driving its progress and making it a valuable tool for developers. I appreciate your understanding and valuable contributions to BigIntLib. Together we can build a powerful library for efficient and high-speed numerical computations.
 
   
   
