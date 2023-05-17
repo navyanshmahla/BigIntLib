@@ -40,7 +40,7 @@ void addition(BigIntContainer &num1, BigIntContainer &num2)
             num1.bignum = '0'+num1.bignum;
         }
     }
-    cout<<"Num1:"<<num1.bignum<<" Num2:"<<num2.bignum<<endl;
+    
     }
     
     if (num1.digitnum == maxi)
